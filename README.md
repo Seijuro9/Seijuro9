@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdtMzV0bG5xbTVkNTU2ODZ3emxqejMybHQ0eXhiNWxreWJqazNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="250" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdtMzV0bG5xbTVkNTU2ODZ3emxqejMybHQ0eXhiNWxreWJqazNvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xaO6TmgQmKEQ4516sE/giphy.gif" width="200" />
 
 <div>
 <a href="https://www.linkedin.com/in/nikos-athanasiou-446133269" target="_blank">
 
-<img src="https://badgen.net/badge/Linked/In" width="200" />
+<img src="https://badgen.net/badge/Linked/In" width="150" />
 </a>
 <div>    
 </div>
